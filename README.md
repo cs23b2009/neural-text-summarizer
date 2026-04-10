@@ -39,6 +39,3 @@ The project uses the [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/
 
 ## Model Summary
 The model utilizes an Encoder-Decoder framework where the encoder compresses the input review into a'context vector' and the decoder expands it into a summary, token by token.
-
----
-*Created for Research and Educational purposes.*
